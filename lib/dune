@@ -1,0 +1,2 @@
+(library
+ (name platformer_ocaml))

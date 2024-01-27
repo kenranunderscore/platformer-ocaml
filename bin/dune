@@ -1,0 +1,4 @@
+(executable
+ (public_name platformer_ocaml)
+ (name main)
+ (libraries platformer_ocaml))
